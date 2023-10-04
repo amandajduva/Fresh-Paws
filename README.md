@@ -16,7 +16,7 @@
 At Fresh Paws Pet Grooming, we believe that every furry friend deserves to look and feel their absolute best. Our mission is simple: to provide exceptional grooming services for all animals, great and small. With a team of passionate and skilled groomers, we cater to the unique needs of dogs, cats, hamsters, and even exotic pets, ensuring they leave our salon feeling refreshed, rejuvenated, and looking their finest. The application used a number of data persistence techniques that serve as redundancy in case one of the options in not supported by the browser. The app was built with GraphQL, a React front end, MongoDB database, and Node.js/Express.js server, API, queries and mutations to fetch and modify data. Application is deployed to heroku.
 
 ## [Installation](#table-of-contents)
-No installation needed! Check out the deployed site <a href="https://freshpawsgrooming-9c1c93deb5e9.herokuapp.com/" target="_blank">here</a>!
+No installation needed! Check out the deployed site <a href="https://freshpaws-6177244a2a25.herokuapp.com/" target="_blank">here</a>!
 
 
 ## [Usage](#table-of-contents)
@@ -50,11 +50,9 @@ The application is covered under the following license:
 
 ## Links 
 
-[Deployed Site](https://freshpawsgrooming-9c1c93deb5e9.herokuapp.com/)
+[Deployed Site](https://freshpaws-6177244a2a25.herokuapp.com/)
 
-[Github Repo](https://github.com/jalarcon95/Fresh-Paws)
-
-[Slide-Show Link](https://docs.google.com/presentation/d/1PehS2FEVgBHubWxq43y4Kxd75d-GOpv2f0NbE7NiYgM/edit#slide=id.p)
+[View our presentation](https://docs.google.com/presentation/d/1PehS2FEVgBHubWxq43y4Kxd75d-GOpv2f0NbE7NiYgM/edit#slide=id.p)
         
   
 
