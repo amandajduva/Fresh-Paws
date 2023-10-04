@@ -65,6 +65,7 @@ export default function Profile() {
         try {
             const response = await removePet({ variables: {petId} });
             console.log('Deleted Pet: ', response);
+            window.location.reload();
             if (e) {
                 console.log(e);
             }
